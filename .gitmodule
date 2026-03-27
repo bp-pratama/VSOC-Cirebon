@@ -1,0 +1,3 @@
+[submodule "SPX-APK"]
+    path = SPX-APK
+    url = https://github.com/bp-pratama/SPX-APK.git
